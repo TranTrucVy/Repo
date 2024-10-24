@@ -1,0 +1,8 @@
+[11:59:41] {C:\Users\trucv\PycharmProjects\nopEcomerce\test_cases\test_login_admin.py:43} INFO - Starting test_verification_title
+[11:59:41] {C:\Users\trucv\PycharmProjects\nopEcomerce\test_cases\test_login_admin.py:46} INFO - Title matches expected value
+[11:59:44] {C:\Users\trucv\PycharmProjects\nopEcomerce\test_cases\test_login_admin.py:61} INFO - Running test_invalid_login
+[11:59:44] {C:\Users\trucv\PycharmProjects\nopEcomerce\test_cases\test_login_admin.py:65} INFO - Error message found: No customer account found
+[12:05:52] {C:\Users\trucv\PycharmProjects\nopEcomerce\test_cases\test_login_admin.py:29} INFO - Starting test_verification_title
+[12:05:52] {C:\Users\trucv\PycharmProjects\nopEcomerce\test_cases\test_login_admin.py:32} INFO - Title matches expected value
+[12:05:55] {C:\Users\trucv\PycharmProjects\nopEcomerce\test_cases\test_login_admin.py:47} INFO - Running test_invalid_login
+[12:05:55] {C:\Users\trucv\PycharmProjects\nopEcomerce\test_cases\test_login_admin.py:51} INFO - Error message found: No customer account found
