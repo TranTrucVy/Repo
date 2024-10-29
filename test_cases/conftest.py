@@ -2,6 +2,8 @@ import pytest
 from selenium import webdriver
 
 
+#pytest -s -v .\test_cases\test_login_admin.py --browser chrome
+
 def pytest_addoption(parser):
     parser.addoption("--browser", action = "store", default = "chrome",
                     help= "Specify the browesr: chrome or firefox or edge")
